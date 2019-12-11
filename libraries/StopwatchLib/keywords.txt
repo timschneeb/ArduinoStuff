@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map Stopwatch
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Stopwatch	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Reset	KEYWORD2
+Update	KEYWORD2
+GetElapsed	KEYWORD2
+GetFrequency	KEYWORD2
+Measure	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
